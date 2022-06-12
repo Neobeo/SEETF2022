@@ -10,7 +10,7 @@ I was part of the organising team this year, and contributed 8.5 challenges that
 - Pwn:
 	- [Pokemon Battle](pwn-pokemon-battle.ipynb) (22 solves / 842 points)
 	- [Pointy Tail](pwn-pointy-tail.ipynb) (3 solves / 999 points)
-	- [Huffbleed (partial solution)](pwn-huffbleed.ipynb) (0 solves / 1000 points)
+	- [Huffbleed](pwn-huffbleed.ipynb) (0 solves / 1000 points)
 - Rev:
 	- [SudoCV](rev-sudocv.ipynb) (2 solves / 1000 points)
 - Misc:
